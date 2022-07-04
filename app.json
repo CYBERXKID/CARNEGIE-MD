@@ -1,0 +1,197 @@
+
+{
+	"name": "CARNEGIE-MD",
+	"description": "Fully Costamisable Bot by CYBERXKID.",
+	"repository": "https://github.com/CYBERXKID/CARNEGIE-MD",
+	"website": "https://github.com/CYBERXKID/CARNEGIE-MD/",
+	"logo": "https://avatars.githubusercontent.com/u/91786052?v=4",
+	"keywords": ["multi-device","CARNEGIE-MD"],
+	"stack": "container",
+	"env": { 
+    "OWNER": {
+            "description": "Pleas enter Number Of the Owner.",
+            "required": false,
+            "value": "27686881509"
+        }, 
+	"S_PACK": {
+            "description": "Sticker Pack Name (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "CARNEGIE"
+        }, 
+	"WORKTYPE": {
+            "description": "change the Work Type (public or private)",
+            "required": true,
+            "value": "private"
+        },
+	"S_AUTHOR": {
+            "description": "Sticker author name. (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "CARNEGIE"
+        }, 
+    "SUDO": {
+            "description": "Add superuser to this bot",
+            "required": false,
+            "value": "27686881509"
+        },
+    "NORMAL": {
+            "description": "Use Fancy Templayes Rather Than Normal Messages",
+            "required": false
+        },
+    "ADVER_URL": {
+            "description": "Adplay Target Url",
+            "required": false
+        },
+    "ADVER": {
+            "description": "Adplay Text",
+            "required": false
+        },
+    "ALIVE_IMAGE": {
+            "description": "Set Alive Message Image",
+            "required": false,
+            "value": "https://i.imgur.com/D5SujIs.jpeg"
+        },
+	"ALIVE_MESS": {
+            "description": "Set Alive Message. (leave it if you Wish to use the default)",
+            "required": false,
+            "value": " ╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n ║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n ║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n ╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n ⊷═〘𝗖𝗔𝗥𝗡𝗘𝗚𝗜𝗘 𝗠𝗗〙═⊷\n╭────────────────⊷❍\n│   *ʜᴇʏ* 👿\n│〄 *ʙᴏᴛɴᴀᴍᴇ* : ᴄᴀʀɴᴇɢɪᴇ-ᴍᴅ\n│〄 *ᴏᴡɴᴇʀ* : ᴄʏʙᴇʀxᴋɪᴅ\n│〄 *ᴠᴇʀѕɪᴏɴ*      : 𝟹.𝟶.𝟶\n│〄 *ʟᴀɴɢᴜᴀɢᴇ*  : ᴇɴɢʟɪѕʜ\n│〄 *ᴡᴏʀᴋ ᴛʏᴘᴇ* : ᴘᴜʙʟɪᴄ\n│〄 *ʙᴏᴛ*             : @ᴡʜᴀᴛsᴀᴘᴘ\n│\n│           █║▌║▌║║▌║ █\n│          © 𝙲𝙰𝚁𝙽𝙴𝙶𝙸𝙴\n│\n│𒀭 *ᵗʰᵉ ʰᵉᵃʳᵗˡᵉˢˢ ᶜᵃʳⁿᵉᵍⁱᵉ* 𒀭\n╰─────────────────⊷❍\n╭─────────────────⊷❍\n│  *ʜᴇʏ 💬 ʜᴇʟᴘ ᴍᴇssᴀɢᴇ ᴛʏᴘᴇ*\n│       *Help Menu List 💬*\n│ 𒀭───────𒀭───────𒀭\n╰─────────────────⊷❍"
+        }, 
+	"OWNER_MESS": {
+            "description": "Set Owner message. (leave it if you Wish to use the default)",
+            "required": false
+        }, 
+    "LISTICON": {
+            "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "࿊"
+        },
+    "BOTNAME": {
+            "description": "Name of The BOT (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "𝗖𝗔𝗥𝗡𝗘𝗚𝗜𝗘 𝗠𝗗"
+        },
+    "ICON": {
+            "description": "Icon to appear in menu (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "𒀭"
+        },
+    "MAIL": {
+            "description": "Premium user number (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "ccyberxkid@gmail.com"
+        },
+    "YOUTUBE": {
+            "description": "Youtube Channel Link (leave it if you dont have one)",
+            "required": false,
+            "value": "https://youtube.com/c/CYBERXKID"
+        },
+    "GITHUB": {
+            "description": "Your Github Account URL (leave it if you dont have one)",
+            "required": false,
+            "value": "https://github.com/CYBERXKID/CARNEGIE-MD"
+        },
+    "INSTAGRAM": {
+            "description": "Your Instagram Id URL (leave it if you dont have one)",
+            "required": false,
+            "value": "https://www.instagram.com/CYBERXKID/"
+        },
+    "NAME": {
+            "description": "Owner Name (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "CYBERXKID"
+        },
+    "FOOTER": {
+            "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "ᴄᴀʀɴᴇɢɪᴇ"
+        },
+    "IMAGE": {
+            "description": "Main Image For The Bot (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://i.imgur.com/D5SujIs.jpeg"
+        },
+    "IMAGE2": {
+            "description": "Image For The Bot (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://i.imgur.com/D5SujIs.jpeg"
+        },
+    "BUTTONURL_LINK1": {
+            "description": "URL Button Id/Link (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://www.instagram.com/CYBERXKID/"
+        },
+    "BUTTONURL_LINK2": {
+            "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://youtube.com/c/CYBERXKID"
+        },
+    "BUTTONURL_OPTION1": {
+            "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
+            "required": false,
+            "value": "ɪɴꜱᴛᴀɢʀᴀᴍ"
+        },
+    "BUTTONURL_OPTION2": {
+            "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
+            "required": false,
+            "value": "ʏᴏᴜᴛᴜʙᴇ"
+        },
+    "LIST_HEAD": {
+            "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
+            "required": false,
+            "value": " █▄─▄█   █▀▀   █▄─█   █─█\n █─█─█   █▀▀   █─▀█   █─█\n ▀───▀   ▀▀▀   ▀──▀   ─▀─\n ⊷═〘𝗖𝗔𝗥𝗡𝗘𝗚𝗜𝗘 𝗠𝗗〙═⊷\n╭──────────𝗖──────⊷❍\n│    *ʜᴇʏ* 👿  〄\n│◑ *ʙᴏᴛɴᴀᴍᴇ* : ᴄᴀʀɴᴇɢɪᴇ-ᴍᴅ\n│◑ *ᴏᴡɴᴇʀ* : ᴄʏʙᴇʀxᴋɪᴅ\n│◑ *ᴠᴇʀѕɪᴏɴ*      : 𝟹.𝟶.𝟶\n│◑ *ʟᴀɴɢᴜᴀɢᴇ*  : ᴇɴɢʟɪѕʜ\n│◑ *ᴡᴏʀᴋ ᴛʏᴘᴇ* : ᴘᴜʙʟɪᴄ\n│◑ *ʙᴏᴛ*             : @ᴡʜᴀᴛsᴀᴘᴘ\n│  ─────────────────\n│           █║▌║▌║║▌║ █\n│          © 𝙲𝙰𝚁𝙽𝙴𝙶𝙸𝙴\n│  ─────────────────\n│𒀭 *ᵗʰᵉ ʰᵉᵃʳᵗˡᵉˢˢ ᶜᵃʳⁿᵉᵍⁱᵉ* 𒀭\n╰─────────────────⊷❍\n╭─────────────────⊷❍\n│                   *ɢɪᴛʜᴜʙ*\n│https://bit.ly/CYBERXKID/CARNEGIE-MD\n│ 𒀭───────𒀭───────𒀭\n╰─────────────────⊷❍"
+        },
+    "LIST_MESSAGE": {
+            "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "ʟɪꜱᴛ ᴍᴇɴᴜ"
+        },
+    "MENU_HEAD": {
+            "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
+            "required": false,
+            "value": " █▄─▄█   █▀▀   █▄─█   █─█\n █─█─█   █▀▀   █─▀█   █─█\n ▀───▀   ▀▀▀   ▀──▀   ─▀─\n ⊷═〘𝗖𝗔𝗥𝗡𝗘𝗚𝗜𝗘 𝗠𝗗〙═⊷\n╭────────────────⊷❍\n│    *ʜᴇʏ* 🥰  〄\n│◑ *ʙᴏᴛɴᴀᴍᴇ* : ᴄᴀʀɴᴇɢɪᴇ-ᴍᴅ\n│◑ *ᴏᴡɴᴇʀ* : ᴄʏʙᴇʀxᴋɪᴅ\n│◑ *ᴠᴇʀѕɪᴏɴ*      : 𝟹.𝟶.𝟶\n│◑ *ʟᴀɴɢᴜᴀɢᴇ*  : ᴇɴɢʟɪѕʜ\n│◑ *ᴡᴏʀᴋ ᴛʏᴘᴇ* : ᴘᴜʙʟɪᴄ\n│◑ *ʙᴏᴛ*             : @ᴡʜᴀᴛsᴀᴘᴘ\n│  ─────────────────\n│           █║▌║▌║║▌║ █\n│          © 𝙲𝙰𝚁𝙶𝙴𝙽𝙸𝙴\n│  ─────────────────\n│𒀭 *ᵗʰᵉ ʰᵉᵃʳᵗˡᵉˢˢ ᶜᵃʳⁿᵉᵍⁱᵉ* 𒀭\n╰─────────────────⊷❍\n╭─────────────────⊷❍\n│                   *ɢɪᴛʜᴜʙ*\n│https://bit.ly/CYBERXKID/CARNEGIE-MD\n│ 𒀭───────𒀭───────𒀭\n╰─────────────────⊷❍"
+        },
+    "MENU_MESSAGE": {
+            "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "ɪɴꜰᴏ ᴍᴇɴᴜ"
+        },
+    "APP_NAME": {
+            "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
+            "required": true
+        },
+    "HEROKU_API": {
+            "description": "Heroku API key for managing the worker (You canot use restart if u dont fill thsi and APP_NAME)",
+            "required": true
+        },
+    "SESSION_ID": {
+            "description": "Add your Session ID here you got from Your Bot",
+            "required": true
+        },
+     
+    "ZENS_API": {
+            "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
+            "required": false,
+            "value": "prh"
+        }
+	},
+	
+	"buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
