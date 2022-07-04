@@ -2,8 +2,8 @@
 /**
    * MIT License
 * 
-   * Create By Prince Rudh.
-   * Copyright (c) 2022 prince-rudh.
+   * Create By CYBERXKID.
+   * Copyright (c) 2022 CYBERXKID.
 * 
    * Permission is hereby granted, free of charge, to any person obtaining a copy
    * of this software and associated documentation files (the "Software"), to deal
