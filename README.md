@@ -10,7 +10,7 @@
 
 
 
-
+[![Replit](https://www.replitcdn.com/replit/button.svg)](https://replit.com/@Cyberm/CARNEGIE-MD-BOT-QR-CODE?v=1outputonly%3D1&lite=1#index
 
 
 
