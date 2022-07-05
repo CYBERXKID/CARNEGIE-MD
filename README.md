@@ -10,9 +10,10 @@
 
 
 
-[![Replit](https://www.replitcdn.com/replit/button.svg)](https://replit.com/@Cyberm/CARNEGIE-MD-BOT-QR-CODE?v=1outputonly%3D1&lite=1#index
 
 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Cyberm/CARNEGIE-MD-BOT-QR-CODE?v=1outputonly%3D1&lite=1#index)
+  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/CARNEGIE-MD)
 
